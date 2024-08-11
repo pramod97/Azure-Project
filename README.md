@@ -25,51 +25,32 @@ Pipeline 1: Data Ingestion Pipeline
 ![image](https://github.com/user-attachments/assets/cdf0daa6-7a3f-41a4-8131-dad7134811ff)
 ![image](https://github.com/user-attachments/assets/981137b7-a0b7-4b41-aa5a-b890762e5f25)
 
-
-
-
-
-
-Description: Responsible for ingesting the Tokyo Olympic data from GitHub to Azure Data Factory.
-Screenshot: Shows the pipeline’s activities, including the Copy Data activity.
-Screenshot 2: Data Ingestion Pipeline Configuration
-Pipeline 2: Data Transformation Pipeline
-
-Description: Handles the transformation of data using Azure Databricks.
-Screenshot: Displays the activities involved in data transformation.
-Screenshot 3: Data Transformation Pipeline Configuration
-Pipeline 3: Data Storage Pipeline
-
-Description: Manages the process of storing transformed data in Azure Synapse.
-Screenshot: Illustrates how data is loaded into Synapse.
-Screenshot 4: Data Storage Pipeline Configuration
 Data Transformation Using Azure Databricks
+
 1. Databricks Cluster Configuration
+Description: Shows the configuration details of the Databricks cluster used for data transformations, including cluster settings and specifications.
+![image](https://github.com/user-attachments/assets/fa5e7261-b471-40c4-a53c-82af90ce657b)
 
-Screenshot 5: Databricks Cluster Configuration
 
-2. Data Transformation Notebooks
+3. Connecting to Databricks
+Description: Details how to connect to Databricks from Azure Data Factory, including setting up the Databricks linked service and authentication details.
 
-Screenshot 6: Transformation Notebook
+4. Data Transformation Notebooks
+Description: Provides an overview of the Databricks notebooks used for data transformation, including code snippets and transformation logic.
 
-3. Transformation Results
-
-Screenshot 7: Transformation Results
+5. Transformation Results
+Description: Displays the results of the data transformation, including output tables or visualizations.
 
 Data Storage in Azure Synapse
 1. Linked Service Configuration for Synapse
-
-Screenshot 8: Synapse Linked Service Configuration
+Description: Shows the configuration of the linked service used to connect Azure Synapse with other Azure services.
 
 2. Data Load Process
-
-Screenshot 9: Data Load Process
+Description: Illustrates the process of loading data into Azure Synapse.
 
 Data Visualization Using Power BI
 1. Power BI Connection to Azure Synapse
-
-Screenshot 10: Power BI Connection to Synapse
+Description: Shows how Power BI connects to Azure Synapse, including data source configuration.
 
 2. Power BI Dashboard
-
-Screenshot 11: Power BI Dashboard
+Description: Displays the final Power BI dashboard created to visualize the Tokyo Olympic data.
