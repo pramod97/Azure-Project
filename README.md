@@ -28,29 +28,21 @@ Pipeline 1: Data Ingestion Pipeline
 Data Transformation Using Azure Databricks
 
 1. Databricks Cluster Configuration
-Description: Shows the configuration details of the Databricks cluster used for data transformations, including cluster settings and specifications.
+Description: Shows the configuration details of the Databricks cluster used for data transformations.
 ![image](https://github.com/user-attachments/assets/fa5e7261-b471-40c4-a53c-82af90ce657b)
 
+2. Databricks linked service
+Description: Shows linked services to storage account
+![image](https://github.com/user-attachments/assets/9670a99f-7059-4e07-bdad-6167f0f02500)
 
-3. Connecting to Databricks
-Description: Details how to connect to Databricks from Azure Data Factory, including setting up the Databricks linked service and authentication details.
-
-4. Data Transformation Notebooks
-Description: Provides an overview of the Databricks notebooks used for data transformation, including code snippets and transformation logic.
-
-5. Transformation Results
-Description: Displays the results of the data transformation, including output tables or visualizations.
-
-Data Storage in Azure Synapse
-1. Linked Service Configuration for Synapse
-Description: Shows the configuration of the linked service used to connect Azure Synapse with other Azure services.
-
-2. Data Load Process
-Description: Illustrates the process of loading data into Azure Synapse.
 
 Data Visualization Using Power BI
 1. Power BI Connection to Azure Synapse
 Description: Shows how Power BI connects to Azure Synapse, including data source configuration.
+![image](https://github.com/user-attachments/assets/37a9bf7d-008d-45c7-a65f-a324c3220fc7)
 
-2. Power BI Dashboard
-Description: Displays the final Power BI dashboard created to visualize the Tokyo Olympic data.
+
+3. Power BI Dashboard
+
+![image](https://github.com/user-attachments/assets/e7a83f8d-039b-4e45-a437-cd222fa41242)
+
