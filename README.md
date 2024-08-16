@@ -31,21 +31,16 @@ Data Transformation Using Azure Databricks
 Description: Shows the configuration details of the Databricks cluster used for data transformations, including cluster settings and specifications.
 ![image](https://github.com/user-attachments/assets/fa5e7261-b471-40c4-a53c-82af90ce657b)
 
+2. Databricks linked services
+![image](https://github.com/user-attachments/assets/a1c6eefb-df65-41c4-8bfe-798f82de1587)
 
-4. Data Transformation Notebooks
-Description: Transformed the data using apache spark in notebook
-
-
-Data Storage in Azure Synapse
-1. Linked Service Configuration for Synapse
-Description: Shows the configuration of the linked service used to connect Azure Synapse with other Azure services.
-
-2. Data Load Process
-Description: Illustrates the process of loading data into Azure Synapse.
 
 Data Visualization Using Power BI
 1. Power BI Connection to Azure Synapse
-Description: Shows how Power BI connects to Azure Synapse, including data source configuration.
+Description: Shows how Power BI connects to Azure Synapse.
+![image](https://github.com/user-attachments/assets/7facd1e7-b0f1-4204-b07a-95a79b165459)
 
-2. Power BI Dashboard
-Description: Displays the final Power BI dashboard created to visualize the Tokyo Olympic data.
+
+3. Power BI Dashboard
+![image](https://github.com/user-attachments/assets/86681eaa-0208-4435-8be2-43f2cb8a38d4)
+
