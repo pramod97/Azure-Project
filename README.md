@@ -32,14 +32,9 @@ Description: Shows the configuration details of the Databricks cluster used for 
 ![image](https://github.com/user-attachments/assets/fa5e7261-b471-40c4-a53c-82af90ce657b)
 
 
-3. Connecting to Databricks
-Description: Details how to connect to Databricks from Azure Data Factory, including setting up the Databricks linked service and authentication details.
-
 4. Data Transformation Notebooks
-Description: Provides an overview of the Databricks notebooks used for data transformation, including code snippets and transformation logic.
+Description: Transformed the data using apache spark in notebook
 
-5. Transformation Results
-Description: Displays the results of the data transformation, including output tables or visualizations.
 
 Data Storage in Azure Synapse
 1. Linked Service Configuration for Synapse
