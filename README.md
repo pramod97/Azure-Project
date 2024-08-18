@@ -1,6 +1,6 @@
 # Azure-Project
 
-Introduction
+## Introduction
 This project demonstrates a comprehensive data pipeline for the Tokyo Olympic data, showcasing the ingestion, transformation, storage, and visualization processes using Azure Data Factory (ADF), Azure Databricks, Azure Synapse, and Power BI.
 
 Data Source
