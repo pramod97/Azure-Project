@@ -3,12 +3,12 @@
 ## Introduction
 This project demonstrates a comprehensive data pipeline for the Tokyo Olympic data, showcasing the ingestion, transformation, storage, and visualization processes using Azure Data Factory (ADF), Azure Databricks, Azure Synapse, and Power BI.
 
-Data Source
-Dataset: Tokyo Olympic Data
-Source: Kaggle
-Initial Storage: GitHub Repository
-Pipeline Overview
-1. Full Pipeline Overview Diagram
+Dataset: Tokyo Olympic Data  
+Source: Kaggle  
+Initial Storage: GitHub Repository  
+
+## Pipeline Overview
+**Full Pipeline Overview Diagram**
 
 This screenshot shows the complete view of all ADF pipelines used in the project, illustrating the flow of data through various components.
 
