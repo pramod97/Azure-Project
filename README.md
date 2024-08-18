@@ -25,11 +25,11 @@ This screenshot shows the complete view of all ADF pipelines used in the project
 
 ## Data Transformation Using Azure Databricks
 
-1. Databricks Cluster Configuration
+**1. Databricks Cluster Configuration**  
 Description: Shows the configuration details of the Databricks cluster used for data transformations, including cluster settings and specifications.
 ![image](https://github.com/user-attachments/assets/fa5e7261-b471-40c4-a53c-82af90ce657b)
 
-2. Databricks linked services
+**2. Databricks linked services**  
 ![image](https://github.com/user-attachments/assets/a1c6eefb-df65-41c4-8bfe-798f82de1587)
 
 
