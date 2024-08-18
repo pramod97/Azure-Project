@@ -12,20 +12,18 @@ Initial Storage: GitHub Repository
 
 This screenshot shows the complete view of all ADF pipelines used in the project, illustrating the flow of data through various components.
 
-Screenshot 1: Full Pipeline Overview
+**Data Ingestion pipelines**
 ![image](https://github.com/user-attachments/assets/651f8923-3988-4173-9eea-fcca22dcaeff)
 
 
-2. Detailed Pipeline Screenshots
-
-Pipeline 1: Data Ingestion Pipeline
+**Created Datasets**
 ![image](https://github.com/user-attachments/assets/63ac2cae-7232-4ccd-995c-30862a2ad8d1)
 ![image](https://github.com/user-attachments/assets/cde64bd3-8ef6-420e-8767-cebb7c2bb4f1)
 ![image](https://github.com/user-attachments/assets/7d3d177a-abb9-4e0d-8d6e-c8686926aef3)
 ![image](https://github.com/user-attachments/assets/cdf0daa6-7a3f-41a4-8131-dad7134811ff)
 ![image](https://github.com/user-attachments/assets/981137b7-a0b7-4b41-aa5a-b890762e5f25)
 
-Data Transformation Using Azure Databricks
+## Data Transformation Using Azure Databricks
 
 1. Databricks Cluster Configuration
 Description: Shows the configuration details of the Databricks cluster used for data transformations, including cluster settings and specifications.
@@ -35,12 +33,12 @@ Description: Shows the configuration details of the Databricks cluster used for 
 ![image](https://github.com/user-attachments/assets/a1c6eefb-df65-41c4-8bfe-798f82de1587)
 
 
-Data Visualization Using Power BI
-1. Power BI Connection to Azure Synapse
+## Data Visualization Using Power BI
+
+**Power BI Connection to Azure Synapse**
 Description: Shows how Power BI connects to Azure Synapse.
 ![image](https://github.com/user-attachments/assets/7facd1e7-b0f1-4204-b07a-95a79b165459)
 
-
-3. Power BI Dashboard
+**Power BI Dashboard**
 ![image](https://github.com/user-attachments/assets/86681eaa-0208-4435-8be2-43f2cb8a38d4)
 
